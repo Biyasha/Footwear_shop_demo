@@ -1,0 +1,6 @@
+{
+  "name": "KINETIC ATELIER Footwear",
+  "description": "High-performance technical running shoes, luxury court sneakers, and trail footwear engineered for cadence and durability.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
